@@ -12,7 +12,7 @@ body {
 h1 {
     font-family: Metropolis, sans-serif;
     font-size: 2.6em;
-    color: #ED7812;
+    color: #7812ED;
     margin-bottom: 20px;
     font-weight: 500;
 }
@@ -20,7 +20,7 @@ h1 {
 h2 {
     font-family: Metropolis, sans-serif;
     font-size: 2em;
-    color: #7812ED;
+    color: #ED7B12;
     font-weight: 500;
     margin-top: 40px;
 }
@@ -28,21 +28,21 @@ h2 {
 h3 {
     font-family: Metropolis, sans-serif;
     font-size: 1.4em;
-    color: #7812ED;
+    color: #ED7B12;
     font-weight:500;
     margin-top: 20px !important;
 }
 
 hr {
     border-width: 6px 0 0;
-    border-color: #0369a1;
+    border-color: #7812ED;
     border-style: solid none none;
     margin: 30px 0 10px;
     opacity: 100;
 }
 
 a {
-    color: #0284c7;
+    color: #ED7B12;
 }
 
 a:hover {
@@ -54,7 +54,7 @@ a, a:visited, a:hover {
 }
 
 #language-selector {
-    color: #0369A1;
+    color: #7812ED;
     padding-left: 1rem;
 }
 
@@ -83,7 +83,7 @@ img#equalitieLogo {
 }
 
 img.hasBorder { 
-    border:2px solid #0EA5E9;
+    border:2px solid #ED7812;
     border-radius: 15px;
 }
 
@@ -103,29 +103,29 @@ div.row {
 
 .icons i,
 .icons svg {
-   color: #0369A1;
+   color: #ED7812;
 }
 
 .btn-danger {
-    color: #0369A1;
+    color: #ED7812;
     font-size:1em;
 }
 
 .btn-outline-danger {
-    border-color: #EA580C;
+    border-color: #ED7812;
     font-size:1.25em;
     color: #EA580C;
 }
 
 .btn-outline-danger:hover {
-   background-color: #EA580C;
+   background-color: #ED7812;
    border-color: #EA580C;
    color: #FFFFFF;
 }
 
 .navbar-light .navbar-nav .nav-link {    
     background-color: white;
-    color: #0369A1;
+    color: #7812ED;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
