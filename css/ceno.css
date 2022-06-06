@@ -101,25 +101,28 @@ div.row {
     margin-bottom: 30px;
 }
 
-.icons i,
+.icons i {
+   color: #EA7812;
+}
+
 .icons svg {
-   color: #ED7812;
+   color: #EA7812;
 }
 
 .btn-danger {
-    color: #ED7812;
+    color: #EA7812;
     font-size:1em;
 }
 
 .btn-outline-danger {
-    border-color: #ED7812;
+    border-color: #EA7812;
     font-size:1.25em;
-    color: #EA580C;
+    color: #EA7812;
 }
 
 .btn-outline-danger:hover {
-   background-color: #ED7812;
-   border-color: #EA580C;
+   background-color: #EA7812;
+   border-color: #EA7812;
    color: #FFFFFF;
 }
 
